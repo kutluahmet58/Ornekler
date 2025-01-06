@@ -1,0 +1,7 @@
+C:\Users\galax\source\repos\Baslangic1\03_Karar Yapıları\bin\Debug\03_Karar Yapıları.exe.config
+C:\Users\galax\source\repos\Baslangic1\03_Karar Yapıları\bin\Debug\03_Karar Yapıları.exe
+C:\Users\galax\source\repos\Baslangic1\03_Karar Yapıları\bin\Debug\03_Karar Yapıları.pdb
+C:\Users\galax\source\repos\Baslangic1\03_Karar Yapıları\obj\Debug\03_Karar Yapıları.csproj.AssemblyReference.cache
+C:\Users\galax\source\repos\Baslangic1\03_Karar Yapıları\obj\Debug\03_Karar Yapıları.csproj.CoreCompileInputs.cache
+C:\Users\galax\source\repos\Baslangic1\03_Karar Yapıları\obj\Debug\03_Karar Yapıları.exe
+C:\Users\galax\source\repos\Baslangic1\03_Karar Yapıları\obj\Debug\03_Karar Yapıları.pdb
